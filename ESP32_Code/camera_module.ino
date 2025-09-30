@@ -1,0 +1,1 @@
+This is a placeholder for camera_module.ino in ESP32_Code.

@@ -1,0 +1,1 @@
+This is a placeholder for firebase_auth_setup.txt in Firebase_Integration.
