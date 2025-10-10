@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "gate1": {
+            "status": "open",
+            "last_updated": "2023-01-01T12:00:00Z"
+        },
+        "gate2": {
+            "status": "closed",
+            "last_updated": "2023-01-01T12:05:00Z"
+        }
+    },
+    "logs": {
+        "log1": {
+            "gate": "gate1",
+            "action": "open",
+            "timestamp": "2023-01-01T12:00:00Z",
+            "user": "admin"
+        }
+    }
+}
